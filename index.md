@@ -1,6 +1,5 @@
 ---
-title: chimayo - SSIS package manipulation in F#
 ---
-# {{ page.title }}
+# chimayo - SSIS package manipulation in F\#
 
 Under construction
